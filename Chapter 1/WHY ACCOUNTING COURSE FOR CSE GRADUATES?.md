@@ -1,0 +1,1 @@
+An accounting course helps CSE graduates understand financial basics, which is useful for managing budgets, assessing project costs, and making data-driven decisions in tech projects. It also aids in understanding the financial impact of technology on a business, making them more versatile and valuable in tech roles.
