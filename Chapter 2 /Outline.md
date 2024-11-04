@@ -1,4 +1,4 @@
-#### Outline:
+## Outline:
 **Account**
 
 **Debits and Credits**
