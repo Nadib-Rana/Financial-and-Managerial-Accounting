@@ -1,4 +1,4 @@
-Certainly! Here's a refined version of your text that incorporates some English terms while maintaining the essence of the content:
+
 
 ---
 
