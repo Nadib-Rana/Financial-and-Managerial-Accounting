@@ -1,7 +1,7 @@
 ### Accounting
 ---
 
-### **Virtual View: Manufacturing vs Non-Manufacturing**
+### **Company: Manufacturing and Non-Manufacturing**
 
 ---
 
